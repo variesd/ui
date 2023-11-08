@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -46,8 +46,8 @@ importers:
         specifier: ^13.4.19
         version: 13.4.19
       '@types/node':
-        specifier: ^17.0.12
-        version: 17.0.45
+        specifier: ^20.0.0
+        version: 20.5.2
       '@types/react':
         specifier: ^18.0.22
         version: 18.2.5
@@ -83,8 +83,8 @@ importers:
         specifier: ^13.4.19
         version: 13.4.19
       '@types/node':
-        specifier: ^17.0.12
-        version: 17.0.45
+        specifier: ^20.0.0
+        version: 20.5.2
       '@types/react':
         specifier: ^18.0.22
         version: 18.2.5
@@ -824,10 +824,6 @@ packages:
 
   /@types/minimatch@5.1.2:
     resolution: {integrity: sha512-K0VQKziLUWkVKiRVrx4a40iPaxTUefQmjtkQofBkYRcoaaL/8rhwDWww9qWbrgicNOgnpIsMxyNIUM4+n6dUIA==}
-    dev: true
-
-  /@types/node@17.0.45:
-    resolution: {integrity: sha512-w+tIMs3rq2afQdsPJlODhoUEKzFP1ayaoyl1CcnwtIlsVe7K7bA1NGm4s3PraqTLlXnbIN84zuBlxBWo1u9BLw==}
     dev: true
 
   /@types/node@20.5.2:
