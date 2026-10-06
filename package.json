@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@farmfe/cli": "^0.5.8",
-    "@farmfe/core": "^0.13.21",
+    "@farmfe/core": "^0.16.0",
     "eslint": "^8.53.0",
     "prettier": "^3.0.3",
     "tsconfig": "workspace:*",
